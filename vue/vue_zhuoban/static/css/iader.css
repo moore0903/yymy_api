@@ -1,0 +1,152 @@
+﻿@charset "utf-8";
+
+.homecont{  display:none; } 
+ 
+@media (max-width:1200px){
+/*屏幕宽度小于1200px*/
+
+.sty1 p{ font-size:18px; line-height:35px; }
+
+.navStyle{ float:right; }
+
+.pro-t{ padding-top:50px; }
+
+#service h2{ padding-top:50px; }
+
+.contact_section .row .col-lg-4{ width:50%; margin-top:25px; }
+
+.page_section.contact{ padding:30px 0 120px; }
+
+}
+
+@media (max-width:1180px){
+/*屏幕宽度小于1080px*/
+
+.sty1 p{ font-size:16px; line-height:35px; }
+
+}
+
+@media (max-width:1080px){
+/*屏幕宽度小于1080px*/
+
+.sty1 p{ font-size:15px; line-height:35px; }
+
+}
+
+@media (max-width:992px){
+/*屏幕宽度小于992px*/
+.sty1 p{ font-size:15px; line-height:30px; }
+#jiamenliucheng{ width:100%; }
+.lis .til{ font-size:20px; }
+.cont{ text-align:left; line-height:23px; }
+.team-btm{ margin-top:-40px; }
+#team div.team-btm div p{ font-size:18px; }
+.zhaoxiang .yaoqiu{ text-indent:0px; }
+.btn-radius{ margin-top:20px; }
+#address h4{ font-size:22px; }
+#address .address{ font-size:18px; }
+#ditu{ margin-top:20px; }
+.pro-t{ padding-top:25px; }
+#service h2{ padding-top:25px; height:120px; }
+}
+
+@media (max-width:864px){
+/*屏幕宽度小于864px*/
+.wh42{ width:100%;}
+.wh58{ width:100%;}
+.homecont{ display:block; }
+.homecontbox{ display:none; }
+.sty1 { height:auto!important; min-height:180px; height:180px; }
+#jiamenliucheng{ height:auto; }
+#jiamenliucheng img{ margin-top:-110px; }
+#shengqingjiaru img{ margin-top:-50px; }
+.iaderz{ margin-top:-40px; }
+
+}
+
+@media (max-width: 767px){
+/*屏幕宽度小于767px*/
+.header_box{ padding:5px 0; }
+.nav-logo{ width:100%; }
+#change_box,.navbar{ width:100%; }
+.navbar-header{ float:right; }
+.navbar-toggle{ float:right; margin-left:0px; margin-top:15px; }
+.logo{ margin-left:16px; }
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form{ border-color:#fff; }
+.navbar-collapse{ padding-right:0px; padding-left:0px; 	overflow-x: hidden; }
+.navStyle{ margin-left:0px; }
+.navStyle ul li{ width:100%; }
+#mainNav li a{ padding:15px 25px; text-align:center; }
+.sty1 p{ padding:25px; font-size:19px; line-height:35px; }
+.font{ text-indent:0px;}
+.tijiao{ left:0px; }
+#contact div.add-btm{ display:none; }
+.page_section.contact{ padding:30px 0 30px;}
+.item-title img{ margin-top:-60px; }
+.lis{ width:33.333333%; }
+.cont{ color:#fff; padding:10px; height:100px; }
+}
+
+@media (max-width:720px){
+/*屏幕宽度小于720px*/
+.wh1160{ width:100%; }
+.btm-adres{ line-height:25px; padding:25px 15px 0 15px; }
+ }
+
+@media (max-width:640px){
+/*屏幕宽度小于640px*/
+.sty1 p,#address .address{ font-size:16px;  }
+#address .address{ line-height: 25px; padding:0 5px; }
+#address h4{ padding:0 5px; font-size:20px; }
+#address .tel{ padding:0 5px; font-size:20px; }
+.cont{ height:130px; }
+.zhaoxiang .fashi{ text-indent:0px; }
+}
+
+@media (max-width:540px){
+/*屏幕宽度小于540px*/
+.contact_section .row .col-lg-4{ width:100%; }
+.pull-right{ display:none; }
+.zhaoxiang .col-lg-4{ width:50%; }
+.zhaoxiang .col-lg-3{ width:50%; }
+.zhaoxiang .fashi{ text-indent:15px; }
+}
+
+@media (max-width:480px){
+/*屏幕宽度小于480px*/	
+.wh50{ width:100%; }
+.lis{ width:50%; }
+.row{ margin-right:0px; margin-left:0px; }
+.control-label{ padding-top:10px; }
+#fiel .form-group{ margin-bottom:25px; }
+#address h4{ margin-top:20px; }
+h2#huiyuanhuodong{ width:100%; }
+.iehover .col-lg-3{ display:none; }
+.iehover .col-lg-9{ width:100%; }
+#service h2{ height:100px; }
+.hero_wrapper{ margin-top:74px; }
+#service p{ padding-bottom:10px; padding-right:0px; line-height:26px; }
+#service h3{ line-height:28px; }
+.text-right{ text-align:left; }
+#service div.text-right p{ padding-left:0px; }
+.sty1 ins{ background:url(../img/w9.png) no-repeat center center; }
+.sty1 ins.w2{ background:url(../img/w10.png) no-repeat center center; }
+.sty1 ins.w3{ background:url(../img/w11.png) no-repeat center center; }
+.zhaoxiang a{ padding:0px; }
+.zhaoxiang .fashi{ text-indent:0px; }
+#mendianchaxun{ margin-top:25px; }
+#jiamenliucheng img{ margin-top: -220px; }
+#chrh{ margin-top:-120px; }
+.control-label{ color:#fff; }
+.team-title img{ display:none; margin-top:-100px; height:0px; margin:0px; }
+.team-btm{ margin-top:-165px; }
+#fiel label span{ color:#F00; display:none; }
+
+}
+
+@media (max-width:395px){
+/*屏幕宽度小于375px*/	
+#fiel label span{ color:#F00; }
+.name{ color:#fff; }
+
+}

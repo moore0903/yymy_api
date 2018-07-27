@@ -1,0 +1,253 @@
+
+#hdlb{
+	position:relative;
+}
+.ht{
+	width:100%;
+	height:2px;
+	background:#ec6e6c;
+}
+.huitu{
+	text-align: left;
+	box-sizing:border-box;
+	height:65px;
+	margin-top:120px;
+	padding-bottom:20px;
+	border-bottom:solid #F0F0F0 2px;
+	/*background:url(../img/zhaoxian.jpg) 0 0 no-repeat #FFFFFF;*/
+	/*background-size:auto 90%;*/
+	margin-bottom: 30px;
+}
+.huitu-child{
+	padding:10px 20px 10px 20px;
+}
+.huitu img{
+	display:block;
+	height:100%;
+}
+.wr{
+	margin-top:40px;
+	width:100%;
+	background:#F9F9F9;
+	padding: 20px 35px 25px;
+	margin-top:12px;
+	margin-bottom:12px;
+	
+}
+.wr h4{
+	display:inline-block;
+	width:70%;
+	float:left;
+	font-size: 24px;
+	color:#EC6E6C;
+	line-height:36px;
+	margin-top:15px;
+	margin-bottom:10px;
+}
+.wr .time{
+	display:inline-block;
+	width:28%;
+	float:left;
+	font-size:18px;
+	line-height: 36px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+	color:#999999;
+	text-align: right;
+}
+
+.coverwh{
+	width:100%;
+	clear: both;
+}
+.wr p{
+	line-height:36px;
+	font-size:18px;
+	margin-top:2px;
+	margin-bottom:10px;
+	color:#5B5B5B;
+}
+.xiangtop{
+	margin-top:1px;
+	margin-bottom:10px;
+}
+.xiangfa{
+	padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 20px;
+    font-size: 18px;
+    color: #000;
+    opacity: .7;
+}
+
+.yuletu{
+	width:100%;
+	margin-top:20px;
+	padding-bottom:2px;
+	margin-bottom:40px;
+}
+.yuletu img{
+	display:block;
+	width:100%;
+}
+.xiangbt-p{
+	margin-top: 30px;
+    margin-bottom: 30px;
+    line-height: 35px;
+    font-size: 20px;
+    color:#000;
+/*    opacity: 0.9;*/
+}
+.zhilis{
+	cursor:default;
+	padding-left: 12px;
+}
+.zhiming{
+	margin-top:5px;
+	font-size:28px;
+	color:black;
+}
+.zhiming span{
+	display:inline-block;
+	font-size:18px;
+	text-indent:20px;
+	color:#A7A7A7;
+}
+.xinshuizhi{
+	margin-top: 16px;
+    margin-bottom: 20px;
+    line-height: 45px;
+    font-size: 22px;
+    color: #EE7F7D;
+}
+ .xinshuizhi .jiangyan{
+ 	display: inline-block;
+    text-indent: 20px;
+    color:#3A3A3A;
+ }
+ .renshu{
+ 	padding-top:25px;
+ 	font-size: 18px;
+ 	line-height:18px;
+ }
+.xiangadres{
+	font-size:18px;
+	padding-top:20px;
+}
+.pr{
+	padding:20px 15px;
+	background:#F7F7F7;
+}
+.zhize{
+	font-size:22px;
+	line-height:18px;
+	margin-top:15px;
+	margin-bottom:30px;
+	/*font-weight:600;*/
+	text-indent:20px;
+	color:#0B0B0B;
+}
+ul li{
+	font-size: 18px;
+    list-style-type: decimal;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    opacity: .9;
+    color: #1D1D1D;
+    line-height: 28px;
+}
+.fenge{
+	width: 95%;
+	margin:55px auto;
+	height:2px;
+	background:white;
+}
+.renyao{
+	font-size:22px;
+	line-height:18px;
+	margin-top:15px;
+	margin-bottom:30px;
+	/*font-weight:600;*/
+	text-indent:20px;
+	color: #0B0B0B;
+}
+.jianshu{
+	margin-top:40px;
+	font-size: 18px;
+	color:#EE8280;
+}
+.hdlb-top{
+	margin-bottom:75px;
+	background:url(../img/bg-ss_02.png) 0 0 no-repeat #FFFFFF;
+}
+.xinshuizhi{
+    	text-indent:0px;
+    }
+    .zhiming {
+   		text-indent: 18px;
+    }
+    #hdlb .xiangtop{
+    	font-size: 30px;
+	    font-weight: 400;
+	    color: #000;
+	    opacity: .85;
+	    line-height: 60px;
+    }
+    .huitu-child{
+    display: inline-block;
+    padding: 15px 50px 15px 50px;
+    margin-top: 4px;
+    margin-bottom: 1px
+    }
+    #fanh{
+    padding: 3px 22px 3px 20px;
+    font-size: 16px;
+    line-height: 30px;
+    background: url(../img/白底.png) 0 0 no-repeat #FFFFFF;
+    background-size: 100% 100%;
+    text-decoration: none;
+    color: #f29d9c;
+    cursor: pointer;
+    margin-right:2px;
+    }
+    #hod{
+    	padding: 1px 22px 1px 20px;
+	    font-size: 16px;
+	    line-height: 32px;
+	    background: url(../img/灰色.png) 0 0 no-repeat #FFFFFF;
+	    background-size: 100% 100%;
+	    text-decoration: none;
+	    color:#656565;
+	    cursor: pointer;
+	    margin-left: -6px;
+    }
+ #breadcrumb > li{
+ 	list-style-type: none;
+ }
+  div.hdlb-top.huodong1{
+ 	background:url(../img/bg-du_02.png) 0 0 no-repeat #FFFFFF;
+ }
+ div.hdlb-top.daitu,div.hdlb-top.hg{
+ 	background:#FFFFFF;
+ }
+ #liebiao .wr{
+ 	border:solid #f9f9f9 1px;
+ 	cursor: default;
+ }
+ #liebiao .wr:hover{
+ 	/* border: solid red 1px; */
+    border: solid #ffd9d9 1px;
+    box-shadow: 0 0 2px 1px #ffd9d9;
+    background: #fff3f3;
+ 	 }
+@media only screen and (min-width: 992px) and (max-width:1200px) {
+	.xinshuizhi{
+    	text-indent: 5px;
+    }
+    .zhiming {
+   		text-indent: 15px;
+    }
+    #hdlb > div.container > div:nth-child(8) > p{
+    	margin-bottom:2px;
+    }
+}
